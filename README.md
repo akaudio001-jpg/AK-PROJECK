@@ -1,0 +1,2 @@
+# AK-PROJECK
+Mesin kasir
